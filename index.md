@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Página Visión por Computadora Roberto Andres Lindao Guevara
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
